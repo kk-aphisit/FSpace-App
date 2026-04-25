@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "update_dt": "2026-04-25T00:00:00Z",
-  "changelog": "Production stability and notification routing hardening",
+  "changelog": "Chat pagination with cursor, socket leak fixes, crash guards, lazy tab loading",
   "mirrors": [
     "https://update.fspace.asia/app-release.apk",
     "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
