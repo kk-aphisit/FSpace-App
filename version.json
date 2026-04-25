@@ -1,8 +1,9 @@
 {
-  "version": "1.0.10",
-  "update_dt": "2026-04-25T00:00:00Z",
-  "changelog": "Fix background location crash on all Android OEMs (Samsung/Huawei/OPPO/Vivo): replaced flutter_background_service isolate with geolocator ForegroundNotificationConfig native service; iOS background tracking improved",
+  "version": "1.0.11",
+  "update_dt": "2026-04-26T00:00:00Z",
+  "changelog": "Private chat avatar image support, unread-only edit/cancel guard, and 15-day chat media retention with preview/save/share",
   "mirrors": [
-    "https://github.com/kk-aphisit/FSpace-App/releases/download/v1.0.10/app-release.apk"
+    "https://update.fspace.asia/app-release.apk",
+    "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
   ]
 }
