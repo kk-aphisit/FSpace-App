@@ -3,7 +3,6 @@
   "update_dt": "2026-04-25T00:00:00Z",
   "changelog": "Chat pagination with cursor, socket leak fixes, crash guards, lazy tab loading",
   "mirrors": [
-    "https://update.fspace.asia/app-release.apk",
-    "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
+    "https://github.com/kk-aphisit/FSpace-App/releases/download/v1.0.9/app-release.apk"
   ]
 }
