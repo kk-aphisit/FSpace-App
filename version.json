@@ -1,8 +1,9 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "update_dt": "2026-04-25T00:00:00Z",
-  "changelog": "Bug fixes and improvements",
+  "changelog": "Production stability and notification routing hardening",
   "mirrors": [
-    "https://github.com/kk-aphisit/FSpace-App/releases/download/v1.0.7/app-release.apk"
+    "https://update.fspace.asia/app-release.apk",
+    "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
   ]
 }
