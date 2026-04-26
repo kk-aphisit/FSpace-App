@@ -1,9 +1,9 @@
-{
-    "update_dt":  "2026-04-26T12:00:00Z",
-    "mirrors":  [
-                    "https://update.fspace.asia/app-release.apk",
-                    "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
-                ],
-    "version":  "1.0.15",
-    "changelog":  "Location sharing controls — pause/resume, temporary sharing, visibility scope (all/guardians), and geofence alerts"
+﻿{
+  "version": "1.0.15",
+  "update_dt": "2026-04-26T12:00:00Z",
+  "changelog": "Location sharing controls — pause/resume, temporary sharing, visibility scope (all/guardians), and geofence alerts",
+  "mirrors": [
+    "https://update.fspace.asia/app-release.apk",
+    "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
+  ]
 }
