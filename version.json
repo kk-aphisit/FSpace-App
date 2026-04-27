@@ -1,7 +1,8 @@
 ﻿{
-  "version": "1.0.15",
-  "update_dt": "2026-04-26T12:00:00Z",
-  "changelog": "Location sharing controls — pause/resume, temporary sharing, visibility scope (all/guardians), and geofence alerts",
+  "version": "1.0.16",
+  "build_number": 17,
+  "update_dt": "2026-04-27T12:00:00Z",
+  "changelog": "v1.0.16: Emergency SOS mode, chat reactions, reply-to messages, pinned messages, starred messages, media gallery, DM unread tracking",
   "mirrors": [
     "https://update.fspace.asia/app-release.apk",
     "https://raw.githubusercontent.com/kk-aphisit/FSpace-App/main/app-release.apk"
